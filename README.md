@@ -8,7 +8,7 @@ Autor: Josep López Sender
 
 Data: 23/05/2023
 
-![Cultura Digital]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://cdn2.unrealengine.com/09-animate-in-context-1920x1080-4b1ce63db43b.jpg?resize=1&w=1064)) 
+![Cultura Digital](https://cdn2.unrealengine.com/09-animate-in-context-1920x1080-4b1ce63db43b.jpg?resize=1&w=1064)
 
 
 
