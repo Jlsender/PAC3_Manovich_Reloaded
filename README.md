@@ -17,7 +17,7 @@ Data: 23/05/2023
 
 Tal i com diu Lev Manovich al seu llibre El software toma el mando
 
-*" Al repasar la evolución del medio informático tras la primera etapa
+"Al repasar la evolución del medio informático tras la primera etapa
 de invención y experimentación (1960-1970) hasta la etapa de
 comercialización y adopción generalizada (1980-1990), hemos
 descubierto la tercera vía de la evolución del metamedio ordenador: la
