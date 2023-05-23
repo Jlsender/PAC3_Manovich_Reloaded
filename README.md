@@ -15,7 +15,7 @@ Data: 23/05/2023
 ## Plantejament
 
 
-Tal i com diu
+Tal i com diu Lev Manovich al seu llibre "*El software toma el mando*"
 
 
 ## Redescrobrint la hibridació: Unreal Engine 
