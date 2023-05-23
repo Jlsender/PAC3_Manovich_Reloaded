@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# REPTE-ACTIVITAT 3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
 
 ### Recurso de aprendizaje de Cultura Digital 
 
@@ -6,7 +6,7 @@
 Autor: Josep López Sender
 
 
-Fecha: 
+Data: 23/05/2023
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
