@@ -1,6 +1,6 @@
 # REPTE-ACTIVITAT 3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
 
-### Recurso de aprendizaje de Cultura Digital 
+
 
 
 Autor: Josep López Sender
