@@ -15,7 +15,7 @@ Data: 23/05/2023
 ## Plantejament
 
 
-   Tal i com diu Lev Manovich al seu llibre *El software toma el mando*
+**Lev Manovich** al seu llibre *"El software toma el mando"* parla sobre la hibridació de diversos mitjans.
 
 > "*Al repasar la evolución del medio informático tras la primera etapa
 > de invención y experimentación (1960-1970) hasta la etapa de
@@ -25,6 +25,10 @@ Data: 23/05/2023
 > empezaron a actuar como especies en una ecología compartida; en este
 > caso, un entorno de software compartido. Una vez «liberados» a este
 > entorno, han empezado a interaccionar, mutar y producir híbridos."*
+
+Aquesta hibridació, cada cop més generalitzada entre molts dels mitjans crea un nou tipus de mitjans, molt més evolucionats i que comparteixen una simbiosi per l'existència d'aquests.
+
+En aquest article estudiarem el cas d'hibridació entre *Unreal Engine* i *Megascans*
 
 
 ## Redescrobrint la hibridació: Unreal Engine 
