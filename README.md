@@ -15,16 +15,16 @@ Data: 23/05/2023
 ## Plantejament
 
 
-Tal i com diu Lev Manovich al seu llibre El software toma el mando
+   Tal i com diu Lev Manovich al seu llibre *El software toma el mando*
 
-"Al repasar la evolución del medio informático tras la primera etapa
-de invención y experimentación (1960-1970) hasta la etapa de
-comercialización y adopción generalizada (1980-1990), hemos
-descubierto la tercera vía de la evolución del metamedio ordenador: la
-hibridación. Traducidos a software, los diversos tipos de medios
-empezaron a actuar como especies en una ecología compartida; en este
-caso, un entorno de software compartido. Una vez «liberados» a este
-entorno, han empezado a interaccionar, mutar y producir híbridos."
+> "*Al repasar la evolución del medio informático tras la primera etapa
+> de invención y experimentación (1960-1970) hasta la etapa de
+> comercialización y adopción generalizada (1980-1990), hemos
+> descubierto la tercera vía de la evolución del metamedio ordenador: la
+> hibridación. Traducidos a software, los diversos tipos de medios
+> empezaron a actuar como especies en una ecología compartida; en este
+> caso, un entorno de software compartido. Una vez «liberados» a este
+> entorno, han empezado a interaccionar, mutar y producir híbridos."*
 
 
 ## Redescrobrint la hibridació: Unreal Engine 
