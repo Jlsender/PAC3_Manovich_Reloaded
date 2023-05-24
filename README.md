@@ -68,6 +68,9 @@ En definitiva aquesta plataforma ha facilitat la fusió i mescla de diferents es
 
 ![enter image description here](https://blog.megascans.se/wp-content/uploads/2021/05/bridgeinsideue5.jpg)
 
+La primera versió de *Megascans* es va centrar a capturar els materials, textures i elements de la superfície del món real com roques, vegetació, paviments i metalls. Aquest procés s'havia de fer amb diferents equips d'escaneig col·locats a diferents llocs per poder capturar les dades. Finalment, aquestes dades es processaven i ja es podien utilitzar al programari corresponent.
+
+
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
