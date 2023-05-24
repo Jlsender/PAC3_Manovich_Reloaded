@@ -70,6 +70,8 @@ En definitiva aquesta plataforma ha facilitat la fusió i mescla de diferents es
 
 La primera versió de *Megascans* es va centrar a capturar els materials, textures i elements de la superfície del món real com roques, vegetació, paviments i metalls. Aquest procés s'havia de fer amb diferents equips d'escaneig col·locats a diferents llocs per poder capturar les dades. Finalment, aquestes dades es processaven i ja es podien utilitzar al programari corresponent. A mesura que *Megascans* va anar creixent aquest va incorporar models 3D d’alta qualitat i escanejos de superfícies complexes com objectes complexos, edificis i estructures arquitectòniques.
 
+El 2019, ***Epic Games***, la companyia desenvolupadora d'***Unreal Engine*** va adquirir ***Quixel i Megascans*** i el va integrar de manera gratuïta al seu programari, permeten l'accés a les seves biblioteques i recursos pel desenvolupament de videojocs i dissenys en 3D. *Megascans* ha continuat creixent i evolucionant ampliant la seva biblioteca d'*assets* i millorant la seva tecnologia d'escaneig 3D. A part de la seva integració amb Unreal Engine, Megascans es pot fer servir en altres programaris de disseny en 3D, fent que sigui una eina molt versàtil per artistes i desenvolupadors, que els ha permès accedir a una àmplia gamma d'elements i textures.
+
 
 ### Referencias y Bibliografía
 
