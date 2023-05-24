@@ -87,4 +87,7 @@ En el cas de ***Megascans***, la hibridació segons *Lev Manovich* es produeix a
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+
+Llicència: Repositori desenvolupat sota llicència Creative Commons [CC BY-SA 4.0.](https://creativecommons.org/licenses/by-sa/4.0/deed.es) 
+
+
