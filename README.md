@@ -47,9 +47,9 @@ El 2014 va sortir *Unreal Engine 4*, aquesta versió va introduir un enfocament 
 
 ![Mandalorian](https://cdn2.unrealengine.com/Unreal+Engine%2Fblog%2Fforging-new-paths-for-filmmakers-on-the-mandalorian%2FMandalorian_HUC-003903_R.pip-1920x1280-68ee5202c6c393fe4cbaebb6c19d9e894d74b0e7.jpg)
 
-*Unreal Engine* també és una hibridació d'elements visuals i sonors. El motor ha evolucionat constantment en la seva qualitat gràfica i la capacitat de renderitzar imatges fotorealistes, d'aquesta manera ha permès la fusió de la realitat amb entorns virtuals generant entorns i personatges cada cop més detallats i realistes. La incorporació del motor de so i eines de disseny i desenvolupament d'àudio han facilitat la incorporació de sons i bandes sonores, creant experiències auditives evolvents de gran qualitat.
+*Unreal Engine* també és una hibridació d'elements visuals i sonors. El motor ha evolucionat constantment en la seva qualitat gràfica i la capacitat de renderitzar imatges fotorealistes, d'aquesta manera ha permès la fusió de la realitat amb entorns virtuals generant entorns i personatges cada cop més detallats i realistes. Aquest mateix motor gràfic ens dona la possibilitat de treballar la il·luminació en temps real, calculant, adaptant i generant aquesta de manera visual.
 
-Aquest programari també incorpora un motor encarregat d'aplicar la física dels elements, calculant aplicant-les als objectes virtuals que interactuen dins del projecte que desenvolupem, generant col·lisions i aplicant gravetat a aquests.
+La incorporació del motor de so i eines de disseny i desenvolupament d'àudio han facilitat la incorporació de sons i bandes sonores, creant experiències auditives evolvents de gran qualitat. Aquest programari també incorpora un motor encarregat d'aplicar la física dels elements, calculant aplicant-les als objectes virtuals que interactuen dins del projecte que desenvolupem, generant col·lisions i aplicant gravetat a aquests.
 
 
 
