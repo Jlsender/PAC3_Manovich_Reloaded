@@ -41,7 +41,7 @@ El 2002 *Epic Games* va treure la segona versió d'*Unreal Engine*, aquesta vers
 
 ![BioShock](https://upload.wikimedia.org/wikipedia/en/6/6d/BioShock_cover.jpg)
 
-
+El 2014 va sortir *Unreal Engine 4*, aquesta versió va introduir un enfocament més accessible i orientat a la comunitat, permetent a petits desenvolupadors i estudis accedir a la seva versió completa i gratuïta d'aquest motor. També es van introduir millores significatives en la qualitat visual i un conjunt d'eines molt més intuïtives.
 
 
 
