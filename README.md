@@ -37,12 +37,12 @@ El primer cas d’hibridació que proposo és *Unreal Engine*, un motor de video
 
 La versió original d’**Unreal Engine**, utilitzada pel desenvolupament del joc “*Unreal*” presentava característiques innovadores en aquell moment com els gràfics en 3D en temps real, la il·luminació dinàmica i els mapes de textures detallats. Aquestes característiques van ajudar a popularitzar-lo entre els desenvolupadors de videojocs. Després del llançament del joc "*Unreal*", *Epic Games* va llançar *Unreal Engine* com un producte independent sota llicència, aquest fet va permetre que altres desenvolupadors de jocs l'utilitzessin per desenvolupar els seus propis títols.
 
+El 2002 *Epic Games* va treure la segona versió d'*Unreal Engine*, aquesta versió incorporava millores significatives als gràfics i a la física dels materials. Tots aquests avenços van permetre als desenvolupadors a crear jocs encara més realistes i impressionants. El 2004 va sortir la tercera versió d'*Unreal Engine*, una de les versions més exitoses d'aquest motor de videojocs. *Unreal Engine 3* va impulsar la creació de molts jocs populars com "*Gears of War*" i "*BioShock*", gràcies a la seva capacitat gràfica avançada i a la flexibilitat d'adaptació als diferents dispositius.
 
 
 
 
 
-[https://www.youtube.com/watch?v=AfMSCAU0ybo&t=2s](https://www.youtube.com/watch?v=AfMSCAU0ybo&t=2s)
 
 
 
