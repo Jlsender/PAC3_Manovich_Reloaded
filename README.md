@@ -43,6 +43,8 @@ El 2002 *Epic Games* va treure la segona versió d'*Unreal Engine*, aquesta vers
 
 El 2014 va sortir *Unreal Engine 4*, aquesta versió va introduir un enfocament més accessible i orientat a la comunitat, permetent a petits desenvolupadors i estudis accedir a la seva versió completa i gratuïta d'aquest motor. També es van introduir millores significatives en la qualitat visual i un conjunt d'eines molt més intuïtives.
 
+Actualment Unreal Engine compta amb la versió 5. Aquesta versió incorpora integracions amb MetaHuman, Twinmotion, Megascans, RealityScan, un aprenentatge automatitzat de deformacions, millores en la càmera virtual, entre altres millores. Gràcies a totes aquestes integracions fan que aquest programari sigui una eina molt versàtil a l'hora de generar el nostre contingut.
+
 **Unreal Engine** és la hibridació de diferents components que ens permeten desenvolupar videojocs, animacions interactives, produccions cinematogràfiques o efectes visuals entre altres creant noves experiències i formes d'entreteniment. *Unreal Engine* ha permès la hibridació en l'àmbit dels medis, aquest motor no solament s'utilitza per crear jocs sinó que també per crear continguts i experiències audiovisuals, cinematogràfiques i pel·lícules generades per ordinador, fusionant tècniques i estils de producció cinematogràfica amb interactivitat, generant noves formes de contar històries i crear experiències immersives.
 
 ![Mandalorian](https://cdn2.unrealengine.com/Unreal+Engine%2Fblog%2Fforging-new-paths-for-filmmakers-on-the-mandalorian%2FMandalorian_HUC-003903_R.pip-1920x1280-68ee5202c6c393fe4cbaebb6c19d9e894d74b0e7.jpg)
