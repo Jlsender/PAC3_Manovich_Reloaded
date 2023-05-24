@@ -43,10 +43,7 @@ El 2002 *Epic Games* va treure la segona versió d'*Unreal Engine*, aquesta vers
 
 El 2014 va sortir *Unreal Engine 4*, aquesta versió va introduir un enfocament més accessible i orientat a la comunitat, permetent a petits desenvolupadors i estudis accedir a la seva versió completa i gratuïta d'aquest motor. També es van introduir millores significatives en la qualitat visual i un conjunt d'eines molt més intuïtives.
 
-**Unreal Engine** és la hibridació de diferents components que ens permeten desenvolupar videojocs, animacions interactives, produccions cinematogràfiques o efectes visuals entre altres. Alguns exemples d'aquesta hibridació són:
-
- - El motor de so, encarregat de proporcionar i gestionar els efectes de
-   música i so del nostre projecte.
+**Unreal Engine** és la hibridació de diferents components que ens permeten desenvolupar videojocs, animacions interactives, produccions cinematogràfiques o efectes visuals entre altres creant noves experiències i formes d'entreteniment. *Unreal Engine* ha permès la hibridació en l'àmbit dels medis, aquest motor no solament s'utilitza per crear jocs sinó que també per crear continguts i experiències audiovisuals, cinematogràfiques i pel·lícules generades per ordinador, fusionant tècniques i estils de producció cinematogràfica amb interactivitat, generant noves formes de contar històries i crear experiències immersives.
 
 
 
