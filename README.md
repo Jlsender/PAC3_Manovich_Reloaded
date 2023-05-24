@@ -33,7 +33,7 @@ En aquest article estudiarem el cas d'hibridació entre *Unreal Engine* i *Megas
 
 ## Redescrobrint la hibridació: Unreal Engine 
 
-El primer cas d’hibridació que proposo és **Unreal Engine**, un motor de videojocs desenvolupat per Epic Games que va sortir l’any 1998 i que s’ha convertit en un dels més utilitzats pels desenvolupadors de videojocs gràcies al seu sistema multiplataforma, al seu sistema de “*blueprints*” utilitzats per programar de manera fàcil i intuïtiva . La seva
+El primer cas d’hibridació que proposo és **Unreal Engine**, un motor de videojocs desenvolupat per *Epic Games* que va sortir l’any 1998 i que s’ha convertit en un dels més utilitzats pels desenvolupadors de videojocs gràcies al seu sistema multiplataforma, al seu sistema de “*blueprints*” utilitzats per programar de manera fàcil i intuïtiva, la capacitat de crear jocs AAA (classificació utilitzada pel videojocs produïts i distribuïts per una distribuïdora important amb un gran marketing y altíssims pressupostos).
 
 
 
