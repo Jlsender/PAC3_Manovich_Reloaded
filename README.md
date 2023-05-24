@@ -51,10 +51,9 @@ Actualment Unreal Engine compta amb la versió 5. Aquesta versió incorpora inte
 
 *Unreal Engine* també és una hibridació d'elements visuals i sonors. El motor ha evolucionat constantment en la seva qualitat gràfica i la capacitat de renderitzar imatges fotorealistes, d'aquesta manera ha permès la fusió de la realitat amb entorns virtuals generant entorns i personatges cada cop més detallats i realistes. Aquest mateix motor gràfic ens dona la possibilitat de treballar la il·luminació en temps real, calculant, adaptant i generant aquesta de manera visual.
 
-
-![enter image description here](https://cdn2.unrealengine.com/mhc-realistic-tutorial-thumbnail-1920x1080-dd19bf599904.jpg?resize=1&w=533)
-
 La incorporació del motor de so i eines de disseny i desenvolupament d'àudio han facilitat la incorporació de sons i bandes sonores, creant experiències auditives evolvents de gran qualitat. Aquest programari també incorpora un motor encarregat d'aplicar la física dels elements, calculant aplicant-les als objectes virtuals que interactuen dins del projecte que desenvolupem, generant col·lisions i aplicant gravetat a aquests objectes.
+
+![enter image description here](https://docs.unrealengine.com/4.27/Images/ProgrammingAndScripting/Blueprints/UserGuide/Types/LevelBlueprint/add_event_details_tab.webp)
 
 Una altra forma d'hibridació que trobem dins d'**Unreal Engine** és la interacció entre els desenvolupadors i els usuaris, creant un marc d'intercanvi i col·laboració de coneixements amb usuaris de tot el món. Aquest fet ha portat a la combinació d'idees, tècniques i estils de desenvolupament en un context global, generant noves solucions y enfocaments per la creació de jocs i aplicacions interactives.  
   
