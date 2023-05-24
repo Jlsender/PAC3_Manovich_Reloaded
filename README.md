@@ -64,7 +64,8 @@ En definitiva aquesta plataforma ha facilitat la fusió i mescla de diferents es
 
 ## Redescrobrint la hibridació: Megascans
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Megascans** és una biblioteca d'assets d'escaneig 3D desenvolupada per **Quixel**, una empresa dedicada a la creació d'eines i recursos per la indústria dels videojocs i la visualització arquitectònica. *Quixel* va ser creada l'any 2011 i des dels seus inicis aquesta es va centrar en la creació d'art i dissenys pels videojocs, pel·lícules i anuncis publicitaris.
+
 
 
 ### Referencias y Bibliografía
