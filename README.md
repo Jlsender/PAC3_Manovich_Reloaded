@@ -45,7 +45,7 @@ El 2014 va sortir *Unreal Engine 4*, aquesta versió va introduir un enfocament 
 
 **Unreal Engine** és la hibridació de diferents components que ens permeten desenvolupar videojocs, animacions interactives, produccions cinematogràfiques o efectes visuals entre altres creant noves experiències i formes d'entreteniment. *Unreal Engine* ha permès la hibridació en l'àmbit dels medis, aquest motor no solament s'utilitza per crear jocs sinó que també per crear continguts i experiències audiovisuals, cinematogràfiques i pel·lícules generades per ordinador, fusionant tècniques i estils de producció cinematogràfica amb interactivitat, generant noves formes de contar històries i crear experiències immersives.
 
-
+![Mandalorian](https://cdn2.unrealengine.com/Unreal+Engine%2Fblog%2Fforging-new-paths-for-filmmakers-on-the-mandalorian%2FMandalorian_HUC-003903_R.pip-1920x1280-68ee5202c6c393fe4cbaebb6c19d9e894d74b0e7.jpg)
 
 ## Redescrobrint la hibridació: Megascans
 
