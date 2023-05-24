@@ -64,7 +64,7 @@ En definitiva aquesta plataforma ha facilitat la fusió i mescla de diferents es
 
 ## Redescrobrint la hibridació: Megascans
 
-**Megascans** és una biblioteca d'assets d'escaneig 3D desenvolupada per **Quixel**, una empresa dedicada a la creació d'eines i recursos per la indústria dels videojocs i la visualització arquitectònica. *Quixel* va ser creada l'any 2011 i des dels seus inicis aquesta es va centrar en la creació d'art i dissenys pels videojocs, pel·lícules i anuncis publicitaris.
+**Megascans** és una biblioteca d'assets d'escaneig 3D desenvolupada per **Quixel**, una empresa dedicada a la creació d'eines i recursos per la indústria dels videojocs i la visualització arquitectònica. *Quixel* va ser creada l'any 2011 i des dels seus inicis aquesta es va centrar en la creació d'art i dissenys pels videojocs, pel·lícules i anuncis publicitaris. A causa que els hi era molt complicat trobar recursos visuals de qualitat per poder desenvolupar els seus projectes, el 2014 van crear *Megascans* com una biblioteca d'escaneig 3D. La idea principal era capturar i digitalitzar el món real per crear una àmplia gamma de materials i elements ambientals que els poguessin utilitzar diferents artistes i desenvolupadors pels seus projectes.
 
 
 
