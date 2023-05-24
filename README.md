@@ -28,14 +28,14 @@ Data: 23/05/2023
 
 Aquesta hibridació, cada cop més generalitzada entre molts dels mitjans crea un nou tipus de mitjans, molt més evolucionats i que comparteixen una simbiosi per l'existència d'aquests.
 
-En aquest article estudiarem el cas d'hibridació entre *Unreal Engine* i *Megascans*
+En aquest article estudiarem el cas d'hibridació entre *Unreal Engine* i *Megascans*.
 
 
 ## Redescrobrint la hibridació: Unreal Engine 
 
 El primer cas d’hibridació que proposo és *Unreal Engine*, un motor de videojocs desenvolupat per *Epic Games* que va sortir l’any 1998 i que s’ha convertit en un dels més utilitzats pels desenvolupadors de videojocs gràcies al seu sistema multiplataforma, al seu sistema de “*blueprints*” utilitzats per programar de manera fàcil i intuïtiva, la capacitat de crear jocs AAA (classificació utilitzada pel videojocs produïts i distribuïts per una distribuïdora important amb un gran marketing y altíssims pressupostos).
 
-La versió original d’***Unreal Engine***, utilitzada pel desenvolupament del joc “*Unreal*” presentava característiques innovadores en aquell moment com els gràfics en 3D en temps real, la il·luminació dinàmica i els mapes de textures detallats. Aquestes característiques van ajudar a popularitzar-lo entre els desenvolupadors de videojocs.
+La versió original d’**Unreal Engine**, utilitzada pel desenvolupament del joc “*Unreal*” presentava característiques innovadores en aquell moment com els gràfics en 3D en temps real, la il·luminació dinàmica i els mapes de textures detallats. Aquestes característiques van ajudar a popularitzar-lo entre els desenvolupadors de videojocs.
 
 
 
