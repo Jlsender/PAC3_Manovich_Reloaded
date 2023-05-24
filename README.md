@@ -79,9 +79,10 @@ Cita el fundador y CEO d'*Epic Games*, Tim Sweeney.
 En el cas de ***Megascans***, la hibridació segons *Lev Manovich* es produeix al combinar la captura digital de la realitat física amb la producció d’imatges i entorns virtuals. Aquests són capturats amb precisió, preservant la seva apariència física i textures uniques. Aquests elements es transformen amb models digitals que podràn ser modificats, adaptats i utilitzats en aquests entorns virtuals.
 
 
-### Referencias y Bibliografía
+### Referències i bibliografia web
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Wikipedia - Unreal Engine [en línia] [consulta: 21/05/2023]. Disponible a: https://es.wikipedia.org/wiki/Unreal_Engine
 
 
 ----
