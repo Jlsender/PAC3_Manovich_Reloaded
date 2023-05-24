@@ -51,6 +51,10 @@ El 2014 va sortir *Unreal Engine 4*, aquesta versió va introduir un enfocament 
 
 La incorporació del motor de so i eines de disseny i desenvolupament d'àudio han facilitat la incorporació de sons i bandes sonores, creant experiències auditives evolvents de gran qualitat. Aquest programari també incorpora un motor encarregat d'aplicar la física dels elements, calculant aplicant-les als objectes virtuals que interactuen dins del projecte que desenvolupem, generant col·lisions i aplicant gravetat a aquests objectes.
 
+Una altra forma d'hibridació que trobem dins d'**Unreal Engine** és la interacció entre els desenvolupadors i els usuaris, creant un marc d'intercanvi i col·laboració de coneixements amb usuaris de tot el món. Aquest fet ha portat a la combinació d'idees, tècniques i estils de desenvolupament en un context global, generant noves solucions y enfocaments per la creació de jocs i aplicacions interactives.  
+  
+En definitiva aquesta plataforma ha facilitat la fusió i mescla de diferents estils, gèneres, medis i coneixements i a través de la seva adopció ha anat evolucionant generant noves formes de desenvolupament, d'expressió i d'experiències interactives en la nova cultura digital.
+
 
 
 
