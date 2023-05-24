@@ -49,7 +49,7 @@ El 2014 va sortir *Unreal Engine 4*, aquesta versió va introduir un enfocament 
 
 *Unreal Engine* també és una hibridació d'elements visuals i sonors. El motor ha evolucionat constantment en la seva qualitat gràfica i la capacitat de renderitzar imatges fotorealistes, d'aquesta manera ha permès la fusió de la realitat amb entorns virtuals generant entorns i personatges cada cop més detallats i realistes. La incorporació del motor de so i eines de disseny i desenvolupament d'àudio han facilitat la incorporació de sons i bandes sonores, creant experiències auditives evolvents de gran qualitat.
 
-
+Aquest programari també incorpora un motor encarregat d'aplicar la física dels elements, calculant aplicant-les als objectes virtuals que interactuen dins del projecte que desenvolupem, generant col·lisions i aplicant gravetat a aquests.
 
 
 
