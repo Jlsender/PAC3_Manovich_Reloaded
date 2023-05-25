@@ -39,7 +39,7 @@ La versió original d’**Unreal Engine**, utilitzada pel desenvolupament del jo
 
 El 2002 *Epic Games* va treure la segona versió d'*Unreal Engine*, aquesta versió incorporava millores significatives als gràfics i a la física dels materials. Tots aquests avenços van permetre als desenvolupadors a crear jocs encara més realistes i impressionants. El 2004 va sortir la tercera versió d'*Unreal Engine*, una de les versions més exitoses d'aquest motor de videojocs. *Unreal Engine 3* va impulsar la creació de molts jocs populars com "*Gears of War*" i "*BioShock*", gràcies a la seva capacitat gràfica avançada i a la flexibilitat d'adaptació als diferents dispositius.
 
-![BioShock](https://upload.wikimedia.org/wikipedia/en/6/6d/BioShock_cover.jpg)
+![Bioshock](https://cdn1.epicgames.com/offer/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed)
 
 El 2014 va sortir *Unreal Engine 4*, aquesta versió va introduir un enfocament més accessible i orientat a la comunitat, permetent a petits desenvolupadors i estudis accedir a la seva versió completa i gratuïta d'aquest motor. També es van introduir millores significatives en la qualitat visual i un conjunt d'eines molt més intuïtives.
 
