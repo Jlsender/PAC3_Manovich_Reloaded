@@ -72,6 +72,8 @@ La primera versió de *Megascans* es va centrar a capturar els materials, textur
 
 El 2019, ***Epic Games***, la companyia desenvolupadora d'***Unreal Engine*** va adquirir ***Quixel i Megascans*** i el va integrar de manera gratuïta al seu programari, permeten l'accés a les seves biblioteques i recursos pel desenvolupament de videojocs i dissenys en 3D. *Megascans* ha continuat creixent i evolucionant ampliant la seva biblioteca d'*assets* i millorant la seva tecnologia d'escaneig 3D. A part de la seva integració amb Unreal Engine, Megascans es pot fer servir en altres programaris de disseny en 3D, fent que sigui una eina molt versàtil per artistes i desenvolupadors, que els ha permès accedir a una àmplia gamma d'elements i textures.
 
+![enter image description here](https://blog.megascans.se/wp-content/uploads/2020/02/image5.gif)
+
 > “La creación de contenido 3D fotorrealista es una tarea costosa en el desarrollo de juegos y la producción de películas. Al unirse a Quixel para hacer Megascans gratis para todos los usos en Unreal Engine, este nivel de arte está ahora disponible para todos, desde los estudios de triple-A hasta los indies”
 
 Cita el fundador y CEO d'*Epic Games*, Tim Sweeney.
