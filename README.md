@@ -40,8 +40,7 @@ La versió original d’**Unreal Engine**, utilitzada pel desenvolupament del jo
 El 2002 *Epic Games* va treure la segona versió d'*Unreal Engine*, aquesta versió incorporava millores significatives als gràfics i a la física dels materials. Tots aquests avenços van permetre als desenvolupadors a crear jocs encara més realistes i impressionants. El 2004 va sortir la tercera versió d'*Unreal Engine*, una de les versions més exitoses d'aquest motor de videojocs. *Unreal Engine 3* va impulsar la creació de molts jocs populars com "*Gears of War*" i "*BioShock*", gràcies a la seva capacitat gràfica avançada i a la flexibilitat d'adaptació als diferents dispositius.
 
 ![Bioshock](https://cdn1.epicgames.com/offer/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed)
-
-*Imatge de la portada del videojoc Bioshock. – Imatge sense autor reconegut. [en línia] [consulta: 22/05/2023]. Aquesta imatge es reprodueix acollint-se al dret de citació o ressenya (art. 32 de l’LPI), i està exclosa de la llicència per defecte d’aquesta PAC .[https://cdn1.epicgames.com/offer/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed](https://cdn1.epicgames.com/offer/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed)*
+*Imatge de la portada del videojoc Bioshock. – Imatge sense autor reconegut. [en línia] [consulta: 22/05/2023]. Aquesta imatge es reprodueix acollint-se al dret de citació o ressenya (art. 32 de l’LPI), i està exclosa de la llicència per defecte d’aquesta PAC.[https://cdn1.epicgames.com/offer/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed](https://cdn1.epicgames.com/offer/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed)*
 
 
 
