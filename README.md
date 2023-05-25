@@ -6,7 +6,7 @@
 Autor: Josep López Sender
 
 
-Data: 23/05/2023
+Data: Maig de 2023
 
 ![Cultura Digital](https://cdn2.unrealengine.com/09-animate-in-context-1920x1080-4b1ce63db43b.jpg?resize=1&w=1064)
 
