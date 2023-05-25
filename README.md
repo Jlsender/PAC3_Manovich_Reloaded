@@ -90,7 +90,7 @@ En el cas de ***Megascans***, la hibridació segons *Lev Manovich* es produeix a
 * Physically based rendering - Wikipedia [en línia] [consulta: 21/05/2023]. Disponible a: https://en.wikipedia.org/wiki/Physically_based_rendering
 * ¿Qué es Quixel? 3 herramientas Render en UE4 - UT-HUB [en línia] [consulta: 22/05/2023]. Disponible a: https://www.ut-hub.com/quixel-3-herramientas-render-para-unreal-engine/
 * Megascans está disponible gratis para usuarios de Unreal Engine [en línia] [consulta: 22/05/2023]. Disponible a:https://www.eurogamer.es/megascans-esta-disponible-gratis-para-usuarios-de-unreal-engine
-
+* Episode 271 - Quixel Megascans - Allan Mckay [en línia] [consulta: 23/05/2023]. Disponible a https://www.allanmckay.com/271/
 ----
 
 
