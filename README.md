@@ -44,6 +44,7 @@ El 2002 *Epic Games* va treure la segona versió d'*Unreal Engine*, aquesta vers
 *Imatge de la portada del videojoc Bioshock. – Imatge sense autor reconegut. [en línia] [consulta: 22/05/2023]. Aquesta imatge es reprodueix acollint-se al dret de citació o ressenya (art. 32 de l’LPI), i està exclosa de la llicència per defecte d’aquesta PAC .[https://cdn1.epicgames.com/offer/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed](https://cdn1.epicgames.com/offer/e9e3ee13329f434f94105e6ec63435e0/EGS_BioShockRemastered_MassMediaGames_S1_2560x1440-cb7067c24252c5602497ab42fc488eed)*
 
 
+
 El 2014 va sortir *Unreal Engine 4*, aquesta versió va introduir un enfocament més accessible i orientat a la comunitat, permetent a petits desenvolupadors i estudis accedir a la seva versió completa i gratuïta d'aquest motor. També es van introduir millores significatives en la qualitat visual i un conjunt d'eines molt més intuïtives.
 
 Actualment Unreal Engine compta amb la versió 5. Aquesta versió incorpora integracions amb MetaHuman, Twinmotion, Megascans, RealityScan, un aprenentatge automatitzat de deformacions, millores en la càmera virtual, entre altres millores. Gràcies a totes aquestes integracions fan que aquest programari sigui una eina molt versàtil a l'hora de generar el nostre contingut.
