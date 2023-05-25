@@ -8,8 +8,8 @@ Autor: Josep López Sender
 
 Data: Maig de 2023
 
-![Cultura Digital](https://cdn2.unrealengine.com/09-animate-in-context-1920x1080-4b1ce63db43b.jpg?resize=1&w=1064)
-
+![Unreal Engine](https://cdn2.unrealengine.com/09-animate-in-context-1920x1080-4b1ce63db43b.jpg?resize=1&w=1064)
+*Imatge d'exemple de la interfície d'Unreal Engine.*
 
 
 ## Plantejament
@@ -66,13 +66,13 @@ En definitiva aquesta plataforma ha facilitat la fusió i mescla de diferents es
 
 **Megascans** és una biblioteca d'assets d'escaneig 3D desenvolupada per **Quixel**, una empresa dedicada a la creació d'eines i recursos per la indústria dels videojocs i la visualització arquitectònica. *Quixel* va ser creada l'any 2011 i des dels seus inicis aquesta es va centrar en la creació d'art i dissenys pels videojocs, pel·lícules i anuncis publicitaris. A causa que els hi era molt complicat trobar recursos visuals de qualitat per poder desenvolupar els seus projectes, el 2014 van crear *Megascans* com una biblioteca d'escaneig 3D. La idea principal era capturar i digitalitzar el món real per crear una àmplia gamma de materials i elements ambientals que els poguessin utilitzar diferents artistes i desenvolupadors pels seus projectes.
 
-![enter image description here](https://blog.megascans.se/wp-content/uploads/2021/05/bridgeinsideue5.jpg)
+![Megascans](https://blog.megascans.se/wp-content/uploads/2021/05/bridgeinsideue5.jpg)
 
 La primera versió de *Megascans* es va centrar a capturar els materials, textures i elements de la superfície del món real com roques, vegetació, paviments i metalls. Aquest procés s'havia de fer amb diferents equips d'escaneig col·locats a diferents llocs per poder capturar les dades. Finalment, aquestes dades es processaven i ja es podien utilitzar al programari corresponent. A mesura que *Megascans* va anar creixent aquest va incorporar models 3D d’alta qualitat i escanejos de superfícies complexes com objectes complexos, edificis i estructures arquitectòniques.
 
 El 2019, ***Epic Games***, la companyia desenvolupadora d'***Unreal Engine*** va adquirir ***Quixel i Megascans*** i el va integrar de manera gratuïta al seu programari, permeten l'accés a les seves biblioteques i recursos pel desenvolupament de videojocs i dissenys en 3D. *Megascans* ha continuat creixent i evolucionant ampliant la seva biblioteca d'*assets* i millorant la seva tecnologia d'escaneig 3D. A part de la seva integració amb Unreal Engine, Megascans es pot fer servir en altres programaris de disseny en 3D, fent que sigui una eina molt versàtil per artistes i desenvolupadors, que els ha permès accedir a una àmplia gamma d'elements i textures.
 
-![image5](https://github.com/Jlsender/PAC3_Manovich_Reloaded/assets/134368672/ca3497ea-8365-4875-80e4-05597553f945)
+![Quixel Bridge](https://github.com/Jlsender/PAC3_Manovich_Reloaded/assets/134368672/ca3497ea-8365-4875-80e4-05597553f945)
 
 
 > “La creación de contenido 3D fotorrealista es una tarea costosa en el desarrollo de juegos y la producción de películas. Al unirse a Quixel para hacer Megascans gratis para todos los usos en Unreal Engine, este nivel de arte está ahora disponible para todos, desde los estudios de triple-A hasta los indies”
@@ -99,7 +99,7 @@ En el cas de ***Megascans***, la hibridació segons *Lev Manovich* es produeix a
 * *Imatge de la sèrie Mandalorian. – Imatge extreta de la pàgina web d'[Unreal Engine](https://www.unrealengine.com/es-ES). Sense autor reconegut. [en línia] [consulta: 24/05/2023]. Aquesta imatge es reprodueix acollint-se al dret de citació o ressenya (art. 32 de l’LPI), i està exclosa de la llicència per defecte d’aquesta PAC .[https://cdn2.unrealengine.com/Unreal+Engine%2Fblog%2Fforging-new-paths-for-filmmakers-on-the-mandalorian%2FMandalorian_HUC-066962.PIP-1920x1280-32edf8b55f3152ae9083ce1586f55f06bc5d4ccd.jpg](https://cdn2.unrealengine.com/Unreal+Engine%2Fblog%2Fforging-new-paths-for-filmmakers-on-the-mandalorian%2FMandalorian_HUC-066962.PIP-1920x1280-32edf8b55f3152ae9083ce1586f55f06bc5d4ccd.jpg)*
 * *Imatge d'exemple Blueprint UE. – Imatge extreta de la pàgina web d'[Unreal Engine](https://www.unrealengine.com/es-ES). Sense autor reconegut. [en línia] [consulta: 24/05/2023]. Aquesta imatge es reprodueix acollint-se al dret de citació o ressenya (art. 32 de l’LPI), i està exclosa de la llicència per defecte d’aquesta PAC .[https://docs.unrealengine.com/4.27/Images/ProgrammingAndScripting/Blueprints/UserGuide/Types/LevelBlueprint/add_event_details_tab.webp](https://docs.unrealengine.com/4.27/Images/ProgrammingAndScripting/Blueprints/UserGuide/Types/LevelBlueprint/add_event_details_tab.webp)*
 * *Imatge d'expemple de la interfície de Megascans. – Imatge extreta de la pàgina web de [Quixel](https://quixel.com/megascans). Sense autor reconegut. [en línia] [consulta: 24/05/2023]. Aquesta imatge es reprodueix acollint-se al dret de citació o ressenya (art. 32 de l’LPI), i està exclosa de la llicència per defecte d’aquesta PAC .[https://blog.megascans.se/wp-content/uploads/2021/05/bridgeinsideue5.jpg](https://blog.megascans.se/wp-content/uploads/2021/05/bridgeinsideue5.jpg)*
-* 
+* *Imatge d'expemple de la interfície de Quixel Bridge. – Imatge extreta de la pàgina web de [Quixel](https://quixel.com/megascans). Sense autor reconegut. [en línia] [consulta: 24/05/2023]. Aquesta imatge es reprodueix acollint-se al dret de citació o ressenya (art. 32 de l’LPI), i està exclosa de la llicència per defecte d’aquesta PAC .[https://blog.megascans.se/wp-content/uploads/2020/02/image5.gif](https://blog.megascans.se/wp-content/uploads/2020/02/image5.gif)*
 
 ----
 
