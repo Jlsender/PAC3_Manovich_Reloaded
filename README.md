@@ -81,7 +81,7 @@ En el cas de ***Megascans***, la hibridació segons *Lev Manovich* es produeix a
 
 ### Referències i bibliografia web
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando*. Barcelona: Editorial UOC.
 * Wikipedia - Unreal Engine [en línia] [consulta: 21/05/2023]. Disponible a: https://es.wikipedia.org/wiki/Unreal_Engine
 * Epic Games - Wikipedia [en línia] [consulta: 21/05/2023]. Disponible a: https://en.wikipedia.org/wiki/Epic_Games
 * Unreal Engine [en línia] [consulta: 21/05/2023]. Disponible a: https://www.unrealengine.com/es-ES/
