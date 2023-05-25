@@ -28,7 +28,7 @@ Data: Maig de 2023
 
 Aquesta hibridació, cada cop més generalitzada entre molts dels mitjans crea un nou tipus de mitjans, molt més evolucionats i que comparteixen una simbiosi per l'existència d'aquests.
 
-En aquest article estudiarem el cas d'hibridació entre *[Unreal Engine](https://www.unrealengine.com/es-ES)* i *[Megascans](https://www.unrealengine.com/es-ES/bridge)*
+En aquest article estudiarem el cas d'hibridació entre *[Unreal Engine](https://www.unrealengine.com/es-ES)* i *[Megascans](https://www.unrealengine.com/es-ES/bridge)*.
 
 
 ## Redescrobrint la hibridació: Unreal Engine 
